@@ -1,0 +1,4 @@
+# Force all text files to use LF in repo
+* text=auto
+*.py text eol=lf
+*.env text eol=lf
