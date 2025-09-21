@@ -49,3 +49,4 @@ E:.
 - Web search integration
 - Better evaluation metrics (precision/recall, citation quality)
 
+## Added document ingestion skeleton
