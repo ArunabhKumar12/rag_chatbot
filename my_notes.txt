@@ -1,0 +1,13 @@
+Steps followed in building the product
+1) Project Setup and pre-req
+a) High level design
+b) PRD or Design document
+c) Creating directory structure
+d) Creating venv
+e) Creating requirements, .env, .gitignore
+f) Setup git and GitHub
+
+2) Setup configs and utils
+a) Setup configs like constants -> here we setup the env vars, constants for logging etc in constants.py
+b) Created the logging_config.py file
+c) Tested the logging_config for env vars and other test cases using test_logger.py
